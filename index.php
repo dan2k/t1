@@ -4,3 +4,4 @@
 ?>
 <br>
 <a href="info.php">go to info</a>
+<hr>
